@@ -8,6 +8,7 @@
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
     "run": "quasar dev",
+    "build": "quasar build",
     "watch": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
   },
   "dependencies": {
