@@ -1,5 +1,24 @@
-# Welcome to GitHub Desktop!
+# quasar-app (quasar-app)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+quasar application
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Install the dependencies
+```bash
+yarn
+# or
+npm install
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
