@@ -1,7 +1,6 @@
 <template>
   <q-page class="flex flex-center">
     <p>Operators Page</p>
-    <p>test</p>
   </q-page>
 </template>
 
